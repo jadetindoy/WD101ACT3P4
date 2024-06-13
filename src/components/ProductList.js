@@ -1,4 +1,3 @@
-// src/components/ProductList.js
 import React, { useState } from 'react';
 import Product from './Product';
 import { Button, Container, Row, Col } from 'react-bootstrap';

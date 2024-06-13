@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db62923b.css",
+    "main.js": "/static/js/main.01624464.js",
+    "static/js/453.2e2f4867.chunk.js": "/static/js/453.2e2f4867.chunk.js",
+    "static/media/air-jordan-1-mid-shoes-7cdjgS.png": "/static/media/air-jordan-1-mid-shoes-7cdjgS.96fde80701a05be9ca53.png",
+    "index.html": "/index.html",
+    "main.db62923b.css.map": "/static/css/main.db62923b.css.map",
+    "main.01624464.js.map": "/static/js/main.01624464.js.map",
+    "453.2e2f4867.chunk.js.map": "/static/js/453.2e2f4867.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.01624464.js"
+  ]
+}
